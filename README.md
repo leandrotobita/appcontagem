@@ -44,3 +44,9 @@ phyton CriarCodigoBarrasDB.py
 python AppContagem.py
 
 Isso iniciará o aplicativo de contagem de códigos de barras.
+
+
+### Telas
+
+![Tela Inicial](screenshots/TelaInicial.png)
+
