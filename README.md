@@ -48,5 +48,6 @@ Isso iniciará o aplicativo de contagem de códigos de barras.
 
 ### Telas
 
-![Tela Inicial](screenshots/TelaInicial.png)
+<img src="screenshots/TelaInicial.png" alt="Tela Inicial" width="400">
+
 
