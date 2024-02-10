@@ -35,8 +35,12 @@ git clone https://github.com/leandrotobita/appcontagem.git
 
 cd appcontagem
 
+3. Execute CriarCodigoBarrasDB.py para criar o codigobarras.db (dados dos produtos)
+
+phyton CriarCodigoBarrasDB.py
+
 3. Execute o aplicativo Python:
 
-python nome_do_app.py
+python AppContagem.py
 
 Isso iniciará o aplicativo de contagem de códigos de barras.
