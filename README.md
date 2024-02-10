@@ -54,6 +54,8 @@ Isso iniciará o aplicativo de contagem de códigos de barras.
 <img src="screenshots/encontrado.png"  alt="Código Encontrado" width="320">
  
 <img src="screenshots/final.png" alt="Resumo" width="320">
+
+<img src="AppContagem.png">
  
 
 
