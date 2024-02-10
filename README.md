@@ -48,6 +48,15 @@ Isso iniciará o aplicativo de contagem de códigos de barras.
 
 ### Telas
 
-<img src="screenshots/TelaInicial.png" alt="Tela Inicial" width="400">
+<img src="screenshots/TelaInicial.png">
+Tela Inicial
+
+<img src="screenshots/encontrado.png">
+Resultado de um código encontrado
+
+<img src="screenshots/final.png" alt="Tela Inicial" width="400">
+Resumo da contagem com a possibilidade de download em formato .txt
+
+
 
 
