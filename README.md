@@ -50,12 +50,10 @@ Isso iniciará o aplicativo de contagem de códigos de barras.
 
 <img src="screenshots/TelaInicial.png"  alt="Tela Inicial" width="320">
 Tela Inicial
-
-
+&nbsp;&nbsp;
 <img src="screenshots/encontrado.png"  alt="Código Encontrado" width="320">
 Resultado de um código encontrado
-
-
+&nbsp;&nbsp;
 <img src="screenshots/final.png" alt="Resumo" width="320">
 Resumo da contagem com a possibilidade de download em formato .txt
 
