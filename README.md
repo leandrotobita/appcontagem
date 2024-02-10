@@ -19,6 +19,7 @@ O Aplicativo de Contagem de Códigos de Barras é uma ferramenta para auxiliar n
 - Excluir códigos de barras.
 - Finalizar um setor ou uma contagem.
 - Visualizar um resumo da contagem com estatísticas.
+- Você pode sempre guardar o inventario.db ou apagá-lo. Toda vez que o sistema iniciar, caso não existe o arquivo inventario.db, o sistema criará um novo.
 
 ## Configuração e Execução
 
