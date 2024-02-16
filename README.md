@@ -14,10 +14,12 @@ Ao enfrentar desafios na contagem manual de itens nas lojas do grupo, reconhecem
 * Análise de Requisitos: Definimos os requisitos essenciais do aplicativo, incluindo a capacidade de criar e gerenciar contagens, adicionar setores, bipar códigos de barras, visualizar resumos e exportar dados.
 
 * Seleção de Tecnologias: Optamos por utilizar Python para a lógica do aplicativo devido à sua versatilidade e eficiência, e Tkinter para a criação da interface do usuário. O SQLite3 foi escolhido como banco de dados embutido para armazenar os dados das contagens e códigos de barras de forma local.
-Desafios Enfrentados:
+
+### Desafios Enfrentados:
 
 * Integração de Funcionalidades Complexas: Um dos principais desafios foi integrar funcionalidades complexas, como a gestão de setores e a finalização de contagens, de forma intuitiva e eficiente na interface do usuário.
-Gerenciamento de Dados: Garantir a integridade e eficiência no armazenamento e manipulação dos dados das contagens e códigos de barras representou um desafio, especialmente considerando a natureza dinâmica das operações de contagem.
+
+* Gerenciamento de Dados: Garantir a integridade e eficiência no armazenamento e manipulação dos dados das contagens e códigos de barras representou um desafio, especialmente considerando a natureza dinâmica das operações de contagem.
 Superando os Desafios:
 
 * Design Iterativo: Adotamos uma abordagem iterativa no desenvolvimento do aplicativo, realizando testes frequentes com usuários reais para obter feedback e aprimorar continuamente a usabilidade e funcionalidades.
